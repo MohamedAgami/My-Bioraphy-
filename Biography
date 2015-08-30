@@ -5,11 +5,11 @@
                  <title>Mohamed</title>
          <style type="text/css">
 
-body {padding: 20px;
+            body {padding: 20px;
 
-font-family: "Courier New", Courier, monospace;}
+            font-family: "Courier New", Courier, monospace;}
 
-/* color name */
+            /* color name */
 			h1 {
 				color: blue;}
 			/* hex code */
@@ -25,13 +25,14 @@ font-family: "Courier New", Courier, monospace;}
 
 
 
-</head>
+        </head>
 
         
-          <body>     <h1>My biography</h1>
+         <body>      <h1>My biography</h1>
                      <P><b>My name is Mohamed Agami<br/>I'm a civil engineering student from <i>Fayoum</i><br/>I'm passionate about change and learn new                                                                                      
                       things every day</b></P>  
                      <h2>My favorite sites are:</h2>
+
 <ul>      <li><a href="https://www.coursera.org">Coursera</a></li>
           <li><a href="https://www.Facebook.com">Facebook</a></li>
 </ul>
