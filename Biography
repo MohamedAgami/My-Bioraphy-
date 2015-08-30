@@ -1,0 +1,46 @@
+
+<html>
+         <head>
+
+                 <title>Mohamed</title>
+         <style type="text/css">
+
+body {padding: 20px;
+
+font-family: "Courier New", Courier, monospace;}
+
+/* color name */
+			h1 {
+				color: blue;}
+			/* hex code */
+			h2 {
+				color: #ee3e90;}
+			/* rgb value */
+			p {
+				color: rgb(100,100,50);}
+                        img.small {width: 100px;
+                                   height: 100px;}
+				
+		</style>
+
+
+
+</head>
+
+        
+          <body>     <h1>My biography</h1>
+                     <P><b>My name is Mohamed Agami<br/>I'm a civil engineering student from <i>Fayoum</i><br/>I'm passionate about change and learn new                                                                                      
+                      things every day</b></P>  
+                     <h2>My favorite sites are:</h2>
+<ul>      <li><a href="https://www.coursera.org">Coursera</a></li>
+          <li><a href="https://www.Facebook.com">Facebook</a></li>
+</ul>
+
+<img src="https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xaf1/v/t1.0-9/11175025_837482062993259_6903004742100736328_n.jpg?oh=c706444a17e3cb10a10b4512a586c51f&oe=566F606B&__gda__=1449746138_8f2017cad8dee3f1fb38047b97d9f329" alt="My photo"class="align-center small"/>
+
+</html>
+
+
+
+
+
